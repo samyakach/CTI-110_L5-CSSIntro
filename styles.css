@@ -1,0 +1,51 @@
+/*
+Color 1: 1f3c6b
+Color 2: 3a8e9c
+Color 3: 4ec6c2
+Color 4: f7f5f2
+Color 5: #f9a85d
+*/
+
+body {
+    background-color: #f7f5f2;
+}
+
+h1 {
+    color: #f9a85d;
+}
+
+a {
+    color: #4ec6c2
+}
+
+h2 {
+    color: #3a8e9c;
+}
+
+p {
+    color: #1f3c6b;
+}
+
+.with-image {
+    padding: 10px;
+    border: 2px solid #3a8e9c;
+}
+
+.caption {
+    color: #f9a85d;
+    font-size: 14pt;
+}
+
+.line {
+    height: 3px;
+    background-color: #1f3c6b;
+}
+
+#footnote {
+    color:#3a8e9c
+}
+
+#bottom-line {
+    height: 3px;
+    background-color: #4ec6c2;
+}
